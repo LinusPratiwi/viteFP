@@ -1,0 +1,41 @@
+{
+  "name": "vitefp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.6.7",
+    "@heroicons/vue": "^1.0.6",
+    "@tensorflow/tfjs": "^3.20.0",
+    "aws-sdk": "^2.1221.0",
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
+    "http": "^0.0.1-security",
+    "process": "^0.11.10",
+    "util": "^0.12.4",
+    "vue": "^3.2.42",
+    "vue-router": "^4.1.4",
+    "vuex": "^4.0.2",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "autoprefixer": "^10.4.8",
+    "browserify-zlib": "^0.2.0",
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^9.4.0",
+    "postcss": "^8.4.16",
+    "prettier": "^2.7.1",
+    "sass": "^1.57.0",
+    "stream-browserify": "^3.0.0",
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.0.7",
+    "vue-tailwind": "^2.5.1"
+  }
+}
